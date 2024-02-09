@@ -1,5 +1,5 @@
  
-<h1 align="center">⭐ Suqar Multi Tool ⭐  </h1>
+<h1 align="center">⭐ Star Multi Tool ⭐  </h1>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1093289506821648434/1097865100737642596/image.png">
@@ -12,19 +12,18 @@
 ```  
 
 🔍 Information
-
-   suqar Multi Tool is a Discord Tool
-   for Nuking, Joining, Reporting etc.
-   For Contact join server.
-   
+Have Greats Tools
+Have Roblox Scripts And More +
+Fork Please :D
+--------------------
    Discord > https://discord.gg/haruma
       
    
-🛠️ Requirements
+🛠️ Links
     
-    - Python 3.10+
-    - Visual Studio Code (For editing the code)
-    - requirements (pip install setup.bat)
+    - https://discord.gg/asf5FagtGu
+    - https://www.youtube.com/watch?v=sEe9HAqfUCg&lc=UgxxXo1W7ixsHs_OZrN4AaABAg
+    -https://www.youtube.com/channel/UCmjLNQ7G9sZXZY0NAgvku4Q
    
  
 ```
