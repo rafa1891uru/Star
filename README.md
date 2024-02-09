@@ -27,4 +27,4 @@ Fork Please :D
    
  
 ```
-<img src="https://cdn.discordapp.com/attachments/1195943960976310343/1205608387384180846/Captura_de_pantalla_2024-02-09_171709.png?ex=65d8fd4e&is=65c6884e&hm=88c54f65cc4d839e4b6a3fe2874a341cfe7158397b2cb54df349d4e50e583a8e&
+<img src="https://github.com/rafa1891uru/Star/blob/main/Captura%20de%20pantalla%202024-02-09%20171709.png">
